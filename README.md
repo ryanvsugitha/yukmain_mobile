@@ -14,7 +14,7 @@ The development process of “YukMain” includes the making of Porcess Flow, En
 ![ERD drawio](https://github.com/user-attachments/assets/9418aab9-f784-4a43-85da-757411e53c6f)
 
 ## Screenshot:
-Tested using Google Pixel 8 API 34
+Tested using Google Pixel 8 API 34 AVD from Android Studio
 
 <img width="220" alt="yukmain_admin_venue_detail" src="https://github.com/user-attachments/assets/7f3919c2-d9b1-4e18-abc8-29598aa2523b">
 <img width="220" alt="yukmain_admin_add_venue" src="https://github.com/user-attachments/assets/314fa3a3-1c25-4d17-834d-c40bbf9d27ed">
